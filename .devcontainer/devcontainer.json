@@ -12,7 +12,6 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				// You can add new "required" extensions to add to your VSCode on build. 
 				"xdebug.php-debug",
 				"xdebug.php-pack",
 				"wongjn.php-sniffer",
@@ -22,7 +21,8 @@
 				"claudiosanches.wpcs-whitelist-flags",
 				"yogensia.searchwpdocs",
 				"anthonydiametrix.ACF-Snippet",
-				"Zignd.html-css-class-completion"
+				"Zignd.html-css-class-completion",
+				"GitHub.copilot"
 			]
 		}
 	}
