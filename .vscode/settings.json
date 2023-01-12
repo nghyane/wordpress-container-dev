@@ -14,7 +14,7 @@
     ],
     // PHP Sniffer by wongjn
     "[php]": {
-        "editor.defaultFormatter": "wongjn.php-sniffer"
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
     },
     "phpSniffer.autoDetect": true,
     "phpSniffer.run": "onSave",
