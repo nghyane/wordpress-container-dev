@@ -3,7 +3,7 @@
 	"service": "wordpress",
 	"forwardPorts": [ 
 		// Add needed ports on .env too
-		8080,
+		80,
 		8090
 	],
 	"dockerComposeFile": "docker-compose.yml",
